@@ -2,7 +2,7 @@
 
 > A compact dual-output regulated power supply PCB delivering **5V @ 1A** and **3.3V @ 1A** from a wide input range of **7V to 40V DC**.
 
-![PCB 3D Render](images/3d_render.jpg)
+![PCB 3D Render](images/3d_render.png)
 
 ---
 
